@@ -1,0 +1,10 @@
+com\qa\crm\pages\ContactsPage.class
+com\qa\crm\pages\DealsPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+com\qa\crm\pages\CasesPage.class
+com\qa\crm\pages\CalenderPage.class
+com\qa\crm\pages\HomePage.class
+com\qa\crm\pages\TasksPage.class
+com\qa\crm\pages\CompaniesPage.class
+com\qa\crm\pages\LoginPage.class

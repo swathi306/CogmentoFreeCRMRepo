@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-25T21:49:06 EDT" name="Default suite" finished-at="2021-03-25T21:49:16 EDT" duration-ms="10187">
+    <groups>
+    </groups>
+    <test started-at="2021-03-25T21:49:06 EDT" name="Default test" finished-at="2021-03-25T21:49:16 EDT" duration-ms="10187">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@12b0404f]" started-at="2021-03-25T21:49:06 EDT" name="setUp" finished-at="2021-03-25T21:49:14 EDT" duration-ms="7375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyClickOnCreateButtonTest()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@12b0404f]" started-at="2021-03-25T21:49:14 EDT" name="VerifyClickOnCreateButtonTest" finished-at="2021-03-25T21:49:16 EDT" duration-ms="2766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyClickOnCreateButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@12b0404f]" started-at="2021-03-25T21:49:16 EDT" name="tearDown" finished-at="2021-03-25T21:49:16 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
