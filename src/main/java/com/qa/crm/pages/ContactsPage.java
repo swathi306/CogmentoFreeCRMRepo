@@ -33,6 +33,9 @@ public class ContactsPage extends TestBase {
 	@FindBy(xpath="//button[@class='ui linkedin button']")
 	WebElement savebtn;
 	
+	@FindBy(xpath="//div[@name='supervisor']/input")
+	WebElement supervisor;
+	
 	public void clickOnCreateButton() {
 		createbtn.click();
 		
@@ -43,6 +46,7 @@ public class ContactsPage extends TestBase {
 		lastname.sendKeys("ram");
 		middlename.sendKeys("ram");
 		email.sendKeys("ram123@gmail.com");
+		supervisor.sendKeys("saanvi");
 		savebtn.click();
 	}
 	
